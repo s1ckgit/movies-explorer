@@ -1,3 +1,5 @@
 # movies-explorer
 
-[](https://www.youtube.com/watch?v=G3Cytlicv8Y)
+
+https://github.com/s1ckgit/movies-explorer/assets/124278320/a6fe006b-e675-4248-8027-dfdef221cacb
+
