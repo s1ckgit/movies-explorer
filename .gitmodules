@@ -1,0 +1,6 @@
+[submodule "movies-explorer-frontend"]
+	path = movies-explorer-frontend
+	url = git@github.com:s1ckgit/movies-explorer-frontend.git
+[submodule "movies-explorer-api"]
+	path = movies-explorer-api
+	url = git@github.com:s1ckgit/movies-explorer-api.git
