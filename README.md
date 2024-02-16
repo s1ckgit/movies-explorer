@@ -12,6 +12,7 @@ https://github.com/s1ckgit/movies-explorer/assets/124278320/7085f684-f1a9-4406-b
 * CSS
 * JavaScript
 * React
+* Webpack
 * Node.js
 * Express.js
 * MongoDB
