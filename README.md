@@ -16,3 +16,8 @@ https://github.com/s1ckgit/movies-explorer/assets/124278320/7085f684-f1a9-4406-b
 * Node.js
 * Express.js
 * MongoDB
+
+### TODO:
+* Пофиксить баги с некорректной отрисовкой кнопок сохранения фильмов
+* Переписать с использованием стейт менеджера (Redux или Zustand)
+
